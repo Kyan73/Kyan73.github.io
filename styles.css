@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: blue;
   position: relative;
   min-height: 100vh;
   padding: 0;
@@ -52,7 +52,7 @@ main {
 .navbar a {
   color: white;
   font-weight: bold;
-  margin: 0 12px;
+  margin: 0 15px;
   text-decoration: none;
   letter-spacing: 2px;
 }
@@ -63,8 +63,8 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
-  color: white;
+  background-color: green;
+  color: red;
   position: absolute;
   bottom: 0;
   width: 100%;
